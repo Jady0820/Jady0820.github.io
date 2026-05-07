@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jue Xie"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: hobbies.qmd
+        text: Hobbies
+      - about.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+
+

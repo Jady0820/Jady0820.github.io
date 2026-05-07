@@ -1,0 +1,42 @@
+---
+title: "Jue Xie"
+image: myphoto.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: jue.xie@ucdenver.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+  id: qq
+---
+
+::: {#qq}
+## Skills
+- Quantitative data analysis using R, Stata, and Excel
+- Data visualization and geographic mapping for social science research
+- Econometric analysis including regression, fixed effects, IV, and RD designs
+- Academic writing and literature review in economics and public policy
+- Cross-cultural research using U.S. and Chinese survey datasets
+- Public speaking and presentation design for academic projects
+
+## Education
+- Bachelor of Arts in Economics, University of Colorado Denver  
+- Expected Graduation: 2027
+- Minor in Statistics and Data Science  
+- GPA: 3.98 / 4.00
+- Relevant Coursework: Econometrics, International Trade, Labor Economics, Data Wrangling and Visualization, Applied Statistics, Linear Algebra  
+- Current Research Projects:
+  - Cross-cultural study of adolescent mental health using NHIS and CFPS datasets
+  - Food desert distribution and social inequality analysis in Denver
+  - Research on Jellycat’s shift in target consumers from children to women
+- Internship Experience:
+  - Investment Department Intern at Shenzhen Yuanzhi Fuhai Private Equity Fund
+- Academic Interests:
+  - Health economics
+  - Development economics
+  - Data visualization
+  - Behavioral economics
+:::
